@@ -1,31 +1,17 @@
 # 🚀 Dev Pradhan | Crafting Digital Experiences
-
-<div align="center">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Mobile+Architect;Full-Stack+Explorer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=DevPradhan08&label=Profile%20Views&color=FF6B6B&style=flat)](https://github.com/DevPradhan08)
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Mobile+Architect;Full-Stack+Explorer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+https://komarev.com/ghpvc/?username=DevPradhan08&label=Profile%2520Views&color=FF6B6B&style=flat
 
 </div>
+✦ About Me
+Hey there! I'm Dev Pradhan — a developer who loves turning ideas into reality through code. My journey in tech is driven by curiosity and a passion for building things that matter.
 
----
-
-## ✦ About Me
-
-Hey there! I'm **Dev Pradhan** — a developer who loves turning ideas into reality through code. My journey in tech is driven by curiosity and a passion for building things that matter.
-
-### What Drives Me
-
-| 🎯 **Mission** | Build seamless digital experiences that make a difference |
-|---|---|
-| 🧠 **Mindset** | Never stop learning, always stay curious |
-| ✨ **Approach** | Clean code, thoughtful design, user-first |
-
----
-
-## 🌱 Currently Exploring
-
-```javascript
+What Drives Me
+🎯 Mission	Build seamless digital experiences that make a difference
+🧠 Mindset	Never stop learning, always stay curious
+✨ Approach	Clean code, thoughtful design, user-first
+🌱 Currently Exploring
+javascript
 const devPradhan = {
   learning: [
     'Clean Architecture',
@@ -85,9 +71,7 @@ https://img.shields.io/badge/%F0%9F%93%9D_Blog-0A0A0A?style=for-the-badge&logo=d
 🎵	Music is my coding companion 🎧
 🌍	Building apps for a connected world 🌐
 📚	Always learning, always growing 📈
-📊 Recent Activity
-<!--START_SECTION:activity--><!--END_SECTION:activity-->
-<div align="center"><!-- Snake Animation --><img src="https://raw.githubusercontent.com/DevPradhan08/devpradhan/output/snake.svg" alt="Snake animation" />
+<div align="center"><img src="https://raw.githubusercontent.com/DevPradhan08/devpradhan/output/snake.svg" alt="Snake animation" />
 ⭐ Built with ❤️ by Dev Pradhan ⭐
 Let's create something extraordinary together!
 
