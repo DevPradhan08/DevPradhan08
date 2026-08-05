@@ -48,3 +48,59 @@ const devPradhan = {
     'Build Developer Tools'
   ]
 };
+🧰 Tech Stack
+📱 Mobile Development
+
+⚡ Backend Development
+
+🗄️ Database & Cloud
+
+🛠️ Tools & Environment
+
+📊 GitHub Stats
+
+
+
+🎯 What I Believe
+"Great developers don't just write code — they create solutions that make lives better."
+
+My Core Principles
+Icon	Principle	Description
+🔍	Clarity over Cleverness	Write code that humans can easily read
+🚀	Progress over Perfection	Ship, learn, improve
+🤝	Collaboration over Competition	We grow stronger together
+💡	Curiosity over Complacency	Always keep learning
+🚀 Featured Projects
+🎨 FlutterUI Kit
+Reusable Flutter components library
+
+Open source & community-driven
+Clean architecture & customizable widgets
+Designed for rapid UI development
+🔐 SecureAuth
+Authentication library for Flutter
+
+Biometric authentication support
+OAuth2 & Social login integration
+Secure token & state management
+✨ Fun Facts About Me
+Icon	Fact
+☕	I code better with coffee (lots of it!)
+🎵	Music is my perfect coding companion 🎧
+🌍	Building apps that connect people worldwide 🌐
+📚	Forever learning — always reading, always growing 📈
+🚀	Startup enthusiast with big ideas 💭
+🎮	Gaming helps me think through problems 🕹️
+💬 Let's Collaborate!
+I'm always interested in:
+
+💡 Innovative project ideas
+🤝 Collaboration opportunities
+📚 Tech discussions & knowledge sharing
+🌟 Open source contributions
+⭐ Built with ❤️ by Dev Pradhan ⭐
+Let's create something extraordinary together!
+
+
+
+```
