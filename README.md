@@ -86,6 +86,8 @@ https://img.shields.io/badge/%F0%9F%93%9D_Blog-0A0A0A?style=for-the-badge&logo=d
 🌍	Building apps for a connected world 🌐
 📚	Always learning, always growing 📈
 <div align="center">
+<img src="https://raw.githubusercontent.com/DevPradhan08/devpradhan/output/snake.svg" alt="Snake animation" />
+....
 ⭐ Built with ❤️ by Dev Pradhan ⭐
 Let's create something extraordinary together!
 
