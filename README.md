@@ -12,18 +12,18 @@
 
 ## ✦ About Me
 
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" height="250" alt="Coding Animation" />
-
 Hey there! I'm **Dev Pradhan** — a developer who loves turning ideas into reality through code. My journey in tech is driven by curiosity and a passion for building things that matter.
 
-### 💡 What Drives Me
+## What Drives Me
 
 | 🎯 **Mission** | Build seamless digital experiences that make a difference |
 |---|---|
 | 🧠 **Mindset** | Never stop learning, always stay curious |
 | ✨ **Approach** | Clean code, thoughtful design, user-first |
 
-### 🌱 Currently Exploring
+---
+
+## 🌱 Currently Exploring
 
 ```javascript
 const devPradhan = {
@@ -81,11 +81,11 @@ https://img.shields.io/badge/%F0%9F%93%9D_Blog-0A0A0A?style=for-the-badge&logo=d
 
 </div>
 ✨ Fun Facts
-☕	I code better with coffee
+☕	I code better with coffee ☕
 🎵	Music is my coding companion 🎧
 🌍	Building apps for a connected world 🌐
 📚	Always learning, always growing 📈
-<div align="center">
+<div align="center"><!-- Snake Animation - This will show after the workflow runs --><img src="https://raw.githubusercontent.com/devpradhan/devpradhan/output/snake.svg" alt="Snake animation" />
 ⭐ Built with ❤️ by Dev Pradhan ⭐
 Let's create something extraordinary together!
 
