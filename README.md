@@ -4,7 +4,7 @@
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Mobile+Architect;Full-Stack+Explorer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=devpradhan&label=👀%20Profile%20Views&color=FF6B6B&style=flat)](https://github.com/devpradhan)
+[![Profile Views](https://komarev.com/ghpvc/?username=devpradhan&label=Profile%20Views&color=FF6B6B&style=flat)](https://github.com/devpradhan)
 
 </div>
 
@@ -81,12 +81,12 @@ https://img.shields.io/badge/%F0%9F%93%9D_Blog-0A0A0A?style=for-the-badge&logo=d
 
 </div>
 ✨ Fun Facts
-☕	I code better with coffee ☕
+☕	I code better with coffee
 🎵	Music is my coding companion 🎧
 🌍	Building apps for a connected world 🌐
 📚	Always learning, always growing 📈
-<div align="center"><!-- Snake animation - Remove this if you haven't set up the workflow --><img src="https://raw.githubusercontent.com/devpradhan/devpradhan/output/snake.svg" alt="Snake animation" />
-⭐ Built by Dev Pradhan ⭐
+<div align="center">
+⭐ Built with ❤️ by Dev Pradhan ⭐
 Let's create something extraordinary together!
 
 </div> ```
